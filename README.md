@@ -1,2 +1,2 @@
 # Guessing-Game
-These is small guessing game developed in Python. 
+These is small Number guessing game developed in Python. Just my first try!!!! 
