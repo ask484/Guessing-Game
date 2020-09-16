@@ -1,2 +1,3 @@
 # Guessing-Game
-These is small Number guessing game developed in Python. Just my first try!!!! 
+These is Number guessing game developed in Python. Just my first try!!!! 
+Let me known if any Changes to be done in these.
